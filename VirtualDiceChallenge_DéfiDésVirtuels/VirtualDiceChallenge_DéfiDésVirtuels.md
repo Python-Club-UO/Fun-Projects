@@ -17,7 +17,8 @@ We will post a few more complex examples as well as a basic example.
 
 
 
-Défi des dés virtuels 
+Défi des dés virtuels!
+
 Pouvez-vous créer votre propre générateur de nombres aléatoires qui sélectionnera un nouveau nombre entre 1 et 6 à chaque fois que le programme sera exécuté ?
 Ce défi amusant est idéal pour les débutants et peut facilement être étendu.
 
