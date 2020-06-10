@@ -11,11 +11,14 @@ Vous devrez télécharger le code et l'ouvrir dans votre IDE ou le copier-coller
 Bonne chance !
 
 
+
 HINT #1 You will need to use a function in order to collect input from the user and save it to be used for later.
+
 INDICE #1 Vous devrez utiliser une fonction afin de collecter les données de l'utilisateur et les sauvegarder pour les utiliser plus tard.
 
 
 HINT #2 You wil need a way of inserting your saved words from the user into your story. 
 Try looking up the .format() function and figure out how to use it.
+
 INDICE #2 Vous aurez besoin d'un moyen d'insérer dans votre histoire les mots de l'utilisateur que vous avez sauvegardés. 
 Essayez de rechercher la fonction .format() et de comprendre comment l'utiliser.
