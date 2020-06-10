@@ -4,13 +4,15 @@ Keep in mind, the solution provided is just one possible example. There are many
 You will need to download the code and open it in your IDE or copy and paste it into your IDE and press "run" to see the code in action.
 Happy coding!
 
+------
+
 Avez-vous déjà voulu coder votre propre jeu MadLibs ? C'est un défi amusant et facile à réaliser pour vous lancer en Python.
 Il peut être réalisé sans utiliser de loops ni importer de librairies. Essayez-le et regardez ci-dessous pour des indices si vous êtes perdus.
 N'oubliez pas que la solution fournie n'est qu'un exemple possible. Il existe de nombreuses façons d'aborder ce problème !
 Vous devrez télécharger le code et l'ouvrir dans votre IDE ou le copier-coller dans votre IDE et appuyer sur "run" pour voir le code en action.
 Bonne chance !
 
-
+-------
 
 HINT #1 You will need to use a function in order to collect input from the user and save it to be used for later.
 
