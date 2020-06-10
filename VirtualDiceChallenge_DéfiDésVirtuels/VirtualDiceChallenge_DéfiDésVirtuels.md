@@ -15,7 +15,7 @@ What about rolling multiple dice? Could you create a mini game of Yahtzee? The p
 We will post a few more complex examples as well as a basic example.
 
 
-
+----------------------
 
 Défi des dés virtuels!
 
