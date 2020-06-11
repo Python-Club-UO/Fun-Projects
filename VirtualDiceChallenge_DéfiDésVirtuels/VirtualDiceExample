@@ -22,4 +22,4 @@ roll2 = random.choice(dice2)
 print("You rolled a " + str(roll2))
 
 
-# Take a look at the "complex" example for some more advanced solutions
+# Take a look at the advanced example for some more complex solutions
